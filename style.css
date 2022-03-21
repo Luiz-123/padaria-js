@@ -325,8 +325,8 @@ hr {
 }
 .cart--totalitem {
     padding:15px 0;
-    border-top:1px solid #79b9dd;
-    color:#315970;
+    border-top:1px solid rgb(106, 124, 3);
+    color:#2b4a5e;
     display:flex;
     justify-content: space-between;
     font-size:15px;
