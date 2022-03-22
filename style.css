@@ -375,7 +375,7 @@ hr {
     }
     header {
         display:flex;
-        background-color:rgb(66, 71, 34);
+        background-color:rgb(44, 43, 43, 0.9);
     }
     header .menu-openner {        
         background-color:rgb(219, 226, 207);
